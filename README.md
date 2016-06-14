@@ -1,3 +1,13 @@
+Compiling.
+This cannot be compiled on Windows. I recommend using Ubuntu 15 64BIT. The script will automatically download the required dependencies, assuming that you are using a Debian-Based Linux Disto (such as Ubuntu). The script can be adapted to work with other devices.
+
+python build.py -d m8whl --lollipop --rootfs full --release v3.1
+
+
+
+
+
+
 # NetHunter - Mobile Penetration Testing Platform
 ![Kali NetHunter](https://raw.githubusercontent.com/offensive-security/kali-nethunter/master/images/nethunter-git-logo.png)
 ## A project by Offensive Security
